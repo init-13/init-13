@@ -7,7 +7,7 @@
 
 --> I do Competitive Coding. Participitated in some competitions.
 
---> Might suck in communicating, cause introvercy 😛
+--> Might suck in communicating because, introvercy. 😛
 
 
 ## NOW LATER AND BEYOND 
