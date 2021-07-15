@@ -25,14 +25,11 @@
 
 <hr>
 
-### SOCIAL MEDIA:
+### SOCIAL MEDIA:<a href="https://www.linkedin.com/in/init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="35px"></a> <a href="https://twitter.com/GoodKnitten"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" height="35px"></a>
 
-<a href="https://www.linkedin.com/in/init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="35px"></a>
-<a href="https://twitter.com/GoodKnitten"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" height="35px"></a>
+<hr>
 
-<br ><hr><br>
-
-### CODING PROFILES:
+### CODING PROFILES: <a href="https://www.stopstalk.com/user/profile/Nitin_Das"><img align="centre" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" width="40px" height="40px"></a><br>
 
 <a href="https://www.codechef.com/users/niit"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codechef.svg" width="30px" height="35px"></a>
 <a href="https://www.hackerearth.com/@init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerearth.svg" width="30px" height="35px"></a>
@@ -40,12 +37,6 @@
 <a href="https://codeforces.com/profile/__niit__"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codeforces.svg" width="30px" height="35px"></a>
 <a href="https://atcoder.jp/users/init13"><img align="left" src="https://img.atcoder.jp/assets/atcoder.png" width="30px" height="35px"></a>
 <a href="https://www.spoj.com/users/niit_8"><img align="left" src="https://pbs.twimg.com/profile_images/568733328090480640/B1rm7i-y_400x400.jpeg" width="30px" height="35px"></a><br>
-
-
-### STOPSTALK 
-<a href="https://www.stopstalk.com/user/profile/Nitin_Das"><img align="centre" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" width="40px" height="40px"></a><br>
-
-
 <hr>
 
 ### Languages and Tools:
