@@ -1,0 +1,77 @@
+
+## नमस्ते 🙏  WELCOME TO MY GITHUB >> init-13 << ✌️
+
+## $ whoami 
+
+--> An Avid Learner with an inquisitive mind who loves solving problems and stimulating my mind with challenges.
+
+--> I do Competitive Coding. Participitated in some competitions.
+
+--> Might suck in communicating, cause introvercy 😛
+
+
+## NOW LATER AND BEYOND 
+
+--> Currently developing on my CP skills and Web development Skills.
+
+--> Would be learning some Android and iOS Devlopment soon.
+
+--> Did some projects on the languages known, and would be doing more later.
+
+--> Wants to work at a good cultured Product-Based Company.😊
+
+--> Would be exploring Machine Learning, AI, Blockchain, IoT, Cloud Computing next.
+
+
+
+
+### SOCIAL MEDIA:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/GoodKnitten]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/init13]
+
+<br />
+
+### CODING PROFILES:
+
+<a href="https://www.codechef.com/users/niit"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codechef.svg" width="30px" height="35px"></a>
+<a href="https://www.hackerearth.com/@init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerearth.svg" width="30px" height="35px"></a>
+<a href="https://www.hackerrank.com/init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg" width="30px" height="35px"></a>
+<a href="https://codeforces.com/profile/__niit__"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codeforces.svg" width="30px" height="35px"></a><br>
+<a href="https://atcoder.jp/users/init13"><img align="left" src="https://img.atcoder.jp/assets/atcoder.png" width="30px" height="35px"></a><br>
+<a href="https://www.spoj.com/users/niit_8"><img align="left" src="https://pbs.twimg.com/profile_images/568733328090480640/B1rm7i-y_400x400.jpeg" width="30px" height="35px"></a><br>
+<hr>
+
+### STOPSTALK(ONESTOP FOR ALL CODING PROFILES) 
+
+<a href="https://www.stopstalk.com/user/profile/Nitin_Das"><img align="centre" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" width="40px" height="40px"></a><br>
+
+### Languages and Tools:
+
+
+[<img align="left" alt="PYTHON3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+
+<br>
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+<br>
+
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+<br>
+
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+
+
+			_____________________________________________________________
