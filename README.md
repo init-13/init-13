@@ -1,26 +1,26 @@
 
 ## नमस्ते 🙏  WELCOME TO MY GITHUB >> init-13 << ✌️
 
-## $ whoami_
+## *init-13@github*:~$ whoami_
 
---> An Avid Learner with an inquisitive mind who loves solving problems and stimulating my mind with challenges.
+**-->** An Avid Learner with an inquisitive mind who loves solving problems and stimulating my mind with challenges.
 
---> I do Competitive Coding. Participitated in some competitions.
+**-->** I do Competitive Coding. Participitated in some competitions.
 
---> Might suck in communicating because, introvercy. 😛
+**-->** Might suck in communicating because, introvercy. 😛
 
 
-## NOW LATER AND BEYOND 
+## NOW LATER AND BEYOND 🚀
 
---> Currently developing on my CP skills and Web development Skills.
+**-->** Currently developing on my CP skills and Web development Skills.
 
---> Would be learning some Android and iOS Devlopment soon.
+**-->** Would be learning some Android and iOS Devlopment soon.
 
---> Did some projects on the languages known, and would be doing more later.
+**-->** Did some projects on the languages known, and would be doing more later.
 
---> Wants to work at a good cultured Product-Based Company.😊
+**-->** Wants to work at a good cultured Product-Based Company.😊
 
---> Would be exploring Machine Learning, AI, Blockchain, IoT, Cloud Computing next.
+**-->** Would be exploring Machine Learning, AI, Blockchain, IoT, Cloud Computing next.
 
 
 <hr>
@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="35px"></a> <a href="https://twitter.com/GoodKnitten"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" height="35px"></a><br>
 <hr>
 
-### CODING PROFILES: <a href="https://www.stopstalk.com/user/profile/Nitin_Das"><img align="centre" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" width="40px" height="40px"></a><br>
+### CODING PROFILES:  <a href="https://www.stopstalk.com/user/profile/Nitin_Das"><img align="centre" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" width="20px" height="20px"></a> <br>
 
 <a href="https://www.codechef.com/users/niit"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codechef.svg" width="30px" height="35px"></a>
 <a href="https://www.hackerearth.com/@init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerearth.svg" width="30px" height="35px"></a>
