@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="35px"></a>
 <a href="https://twitter.com/GoodKnitten"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" height="35px"></a>
 
-<br />
+<br ><hr><br>
 
 ### CODING PROFILES:
 
@@ -42,7 +42,8 @@
 <a href="https://www.spoj.com/users/niit_8"><img align="left" src="https://pbs.twimg.com/profile_images/568733328090480640/B1rm7i-y_400x400.jpeg" width="30px" height="35px"></a><br>
 
 
-### STOPSTALK => <a href="https://www.stopstalk.com/user/profile/Nitin_Das"><img align="centre" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" width="40px" height="40px"></a><br>
+### STOPSTALK 
+<a href="https://www.stopstalk.com/user/profile/Nitin_Das"><img align="centre" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" width="40px" height="40px"></a><br>
 
 
 <hr>
@@ -54,7 +55,7 @@
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][profile]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][profile]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][profile]
-
+[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][profile]
 <br>
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][profile]
@@ -73,7 +74,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][profile]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][profile]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][profile]
-
+<br>
 
 <hr>
 
