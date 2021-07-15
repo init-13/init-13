@@ -69,7 +69,7 @@
 
 <hr>
 <br>
-<a ><img align="left" src="https://dogemuchwow.com/wp-content/uploads/2019/07/ascii-doge-face.png" width="300px" height="200px"></a>
+<a ><img align="left" src="https://dogemuchwow.com/wp-content/uploads/2019/07/ascii-doge-face.png" width="500px" height="450px"></a>
      
 
 [profile]: https://www.linkedin.com/in/init13
