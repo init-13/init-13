@@ -25,8 +25,8 @@
 
 <hr>
 
-### SOCIAL MEDIA:<a href="https://www.linkedin.com/in/init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="35px"></a> <a href="https://twitter.com/GoodKnitten"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" height="35px"></a>
-
+### SOCIAL MEDIA: 
+<a href="https://www.linkedin.com/in/init13"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" height="35px"></a> <a href="https://twitter.com/GoodKnitten"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" height="35px"></a><br>
 <hr>
 
 ### CODING PROFILES: <a href="https://www.stopstalk.com/user/profile/Nitin_Das"><img align="centre" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" width="40px" height="40px"></a><br>
