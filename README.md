@@ -3,7 +3,7 @@
 
 ## *init-13@github*:~$ whoami_
 
-**-->** An Avid Learner with an inquisitive mind who loves solving problems and stimulating my mind with challenges.
+**-->** An Avid Learner with an inquisitive nature who loves solving problems and stimulating the mind with challenges.
 
 **-->** I do Competitive Coding. Participitated in some competitions.
 
