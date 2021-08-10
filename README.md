@@ -20,7 +20,7 @@
 
 **-->** Wants to work at a good cultured Product-Based Company.😊
 
-**-->** Would be exploring Machine Learning, AI, Blockchain, IoT, Cloud Computing next.
+**-->** Would be exploring Machine Learning, Big Data, Blockchain, Cloud Computing next.
 
 
 <hr>
