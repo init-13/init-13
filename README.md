@@ -14,8 +14,6 @@
 
 **-->** Currently developing on my CP skills and Web development Skills.
 
-**-->** Would be learning some Android Devlopment soon.
-
 **-->** Did some projects on the languages known, and would be doing more later.
 
 **-->** Wants to work at a good cultured Product-Based Company.😊
